@@ -1,0 +1,4 @@
+2025-05-16 05:47:35: TCPDF or FPDI-TCPDF classes not found. Trying with FPDF fallback.
+2025-05-16 05:47:35: FPDI class not found. Cannot process PDF.
+2025-05-16 05:47:49: TCPDF or FPDI-TCPDF classes not found. Trying with FPDF fallback.
+2025-05-16 05:47:49: FPDI class not found. Cannot process PDF.
